@@ -2,10 +2,10 @@
     <div>
         <header>
             <nav>
-                <h1 class="logo">KongRuksiam Shop</h1>
-                <NuxtLink to="/">หน้าแรก</NuxtLink>
-                <NuxtLink to="/about">เกี่ยวกับเรา</NuxtLink>
-                <NuxtLink to="/products">สินค้าทั้งหมด</NuxtLink>
+                <h1 class="logo">CODASHOP</h1>
+                <NuxtLink to="/">HOME</NuxtLink>
+                <NuxtLink to="/about">ABOUT US</NuxtLink>
+                <NuxtLink to="/products">PRODUCTS</NuxtLink>
             </nav>
         </header>
         <div>

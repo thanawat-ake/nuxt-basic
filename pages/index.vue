@@ -1,15 +1,15 @@
 <template>
     <div class="container">
-        <h1>หน้าแรกของเว็บไซต์</h1>
+        <h1>Home</h1>
         <img src="/image/shopping.svg">
     </div>
 </template>
 
 <script setup>
 useHead({
-    title: "Codashop | หน้าแรกของเว็บไซต์",
+    title: "Codashop | Home",
     meta: [
-        { name: "description", content: "ร้านค้า, อุปกรณ์คอมพิวเตอร์, เสื้อผ้า" }
+        { name: "description", content: "Codashop, computer devices, clothes" }
     ]
 })
 </script>

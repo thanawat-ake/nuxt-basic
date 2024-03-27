@@ -1,15 +1,15 @@
 <template>
     <div class="container">
-        <h1>เกี่ยวกับผู้พัฒนาเว็บไซต์</h1>
+        <h1>About us</h1>
         <img src="/image/about.svg">
     </div>
 </template>
 
 <script setup>
 useHead({
-    title: "Codashop | เกี่ยวกับเรา",
+    title: "Codashop | About",
     meta: [
-        { name: "description", content: "ร้านค้า, อุปกรณ์คอมพิวเตอร์, เสื้อผ้า" }
+        { name: "description", content: "Codashop, computer devices, clothes" }
     ]
 })
 </script>

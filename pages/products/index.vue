@@ -11,12 +11,12 @@
 
 <script setup>
 useHead({
-    title: "Codashop | สินค้าทั้งหมด",
+    title: "Codashop | Products",
     meta: [
-        { name: "description", content: "ร้านค้า, อุปกรณ์คอมพิวเตอร์, เสื้อผ้า" }
+        { name: "description", content: "Codashop, computer devices, clothes" }
     ]
 })
-const { data: data } = await useFetch('https://dummyjson.com/products?limit=12')
+const { data: data } = await useFetch('https://dummyjson.com/products?limit=15')
 </script>
 
 <style scoped>

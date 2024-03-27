@@ -7,11 +7,11 @@
         <div class="container">
             <img :src=product.thumbnail>
             <div class="detail">
-                <h1>ชื่อ : {{ product.title }}</h1>
-                <h2>ราคา : ${{ product.price }}</h2>
-                <h2>หมวดหมู่ : ${{ product.category }}</h2>
-                <h3>ยี่ห้อ : ${{ product.brand }}</h3>
-                <h4>ข้อมูลพื้นฐาน : ${{ product.description }}</h4>
+                <h1>Title : {{ product.title }}</h1>
+                <h2>Price : ${{ product.price }}</h2>
+                <h2>Category : ${{ product.category }}</h2>
+                <h3>Brand : ${{ product.brand }}</h3>
+                <h4>Description : ${{ product.description }}</h4>
             </div>
         </div>
     </div>
