@@ -7,7 +7,7 @@
 
 <script setup>
 useHead({
-    title: "หน้าแรกของเว็บไซต์",
+    title: "Codashop | หน้าแรกของเว็บไซต์",
     meta: [
         { name: "description", content: "ร้านค้า, อุปกรณ์คอมพิวเตอร์, เสื้อผ้า" }
     ]

@@ -7,7 +7,7 @@
 
 <script setup>
 useHead({
-    title: "เกี่ยวกับเรา",
+    title: "Codashop | เกี่ยวกับเรา",
     meta: [
         { name: "description", content: "ร้านค้า, อุปกรณ์คอมพิวเตอร์, เสื้อผ้า" }
     ]
